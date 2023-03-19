@@ -1,5 +1,5 @@
 ### Hi there 👋
-## Thanks for stopping by. Here's a little bit about myself...
+#### Thanks for stopping by. Here's a little bit about myself...
 😄 Pronouns: He/His/Him
 🔭 I’m currently working as Specialist Programmer at Infosys.
 🌱 I’m currently learning Azure Cloud
