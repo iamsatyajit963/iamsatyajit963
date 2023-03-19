@@ -1,8 +1,5 @@
 ### Hi there 👋
-
-**iamsatyajit963/iamsatyajit963** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<h3 align="center">Thanks for stopping by. Here's a little bit about myself...</h3>
 😄 Pronouns: He/His/Him
 🔭 I’m currently working as Specialist Programmer at Infosys.
 🌱 I’m currently learning Azure Cloud
